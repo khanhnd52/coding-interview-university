@@ -532,7 +532,7 @@ Hãy viết code trên bảng đen hoặc trên giấy. Đừng sử dụng máy
 
 ## Kiến thức tiên quyết
 
-- [ ] **Học C**
+- [x] **Học C**
     - C có ở khắp nơi. Bạn sẽ thấy các ví dụ trong sách, bài giảng, video, bất kỳ đâu mà bạn học.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - Sách ngắn, nhưng nó sẽ cho bạn một nền tảng tốt về C, và nếu bạn luyện tập nhiều hơn, bạn sẽ nhanh chóng thành thạo nó. Hiểu về C giúp bạn hiểu cách các chương trình và bộ nhớ hoạt động.
